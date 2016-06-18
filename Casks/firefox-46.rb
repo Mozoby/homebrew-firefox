@@ -4,7 +4,7 @@ cask :v1 => 'firefox-46' do
 
   url "https://ftp.mozilla.org/pub/firefox/releases/#{version}/mac/en-US/Firefox%20#{version}.dmg"
   name 'Firefox'
-  name 'Mozilla Firefox #{version}'
+  name 'Mozilla Firefox 46.0'
   homepage 'https://www.mozilla.org/en-US/firefox/'
   license :mpl
   tags :vendor => 'Mozilla'
